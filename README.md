@@ -38,5 +38,5 @@ This ensures that in equilibrium $(\( \rho_e = 1 \))$, the net electric field is
 A **Physics-Informed Neural Network (PINN)** is used to solve this system by minimizing a loss function derived from the governing equations.
 
 ### **Neural Network Model**
-We use a **Deep Ritz architecture** with **Fourier embeddings** for better representation of functions in phase space.
+I used a **Deep Ritz architecture** with Fourier embeddings.
 
